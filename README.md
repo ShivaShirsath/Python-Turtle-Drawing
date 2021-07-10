@@ -25,6 +25,6 @@ if __name__ == "__main__":
     turtle.done()
 ```
 > Output :
-[](output.png)
+[output](output.png)
 ## Use mobile to run it without error. (install pydroid)
 # [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
