@@ -2,18 +2,17 @@ import turtle
 
 t = turtle.Turtle()
 t.getscreen().bgcolor("black")
-t.pendown
+t.pendown()
 t.color("yellow")
 
 
-def shape(pen, size, j):
-    if size <= j:
+def shape(pen, size, i):
+    if size <= i:
         return
     else:
-        for i in range(j):
+        for j in range(i):
             pen.forward(size)
-            # shape(turtle, size/j,j)
-            pen.left(360 / j)
+            pen.left(360 / i)
 
 
 if __name__ == "__main__":
