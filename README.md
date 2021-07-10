@@ -1,6 +1,6 @@
 # Python Turtle for Shape drawing
 
-```
+```python
 import turtle
 
 t = turtle.Turtle()
@@ -24,5 +24,5 @@ if __name__ == "__main__":
         shape(t, 120, i)
     turtle.done()
 ```
-## Use mobile to run it without error.
-Install Pydroid from Play Store [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+## Use mobile to run it without error. (install pydroid)
+# [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
