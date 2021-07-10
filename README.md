@@ -17,7 +17,6 @@ def shape(pen, size, j):
     else:
         for i in range(j):
             pen.forward(size)
-            # shape(turtle, size/j,j)
             pen.left(360 / j)
 
 
