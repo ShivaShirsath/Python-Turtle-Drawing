@@ -1,6 +1,6 @@
 <h1 align=center>Python Turtle for Shape drawing </h1>
 
-> Program :
+<h2 align=center> Program </h2>
 
 ```python
 import turtle
@@ -26,7 +26,7 @@ if __name__ == "__main__":
         shape(t, 120, i)
     turtle.done()
 ```
-> Output :
+<h2 align=center> Output </h2>
 
 ![](output.png)
 ## Use mobile to run it without error. (install pydroid)
