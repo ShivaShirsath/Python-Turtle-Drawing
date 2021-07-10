@@ -20,3 +20,6 @@ if __name__ == "__main__":
     for i in range(3, 19, 1):
         shape(t, 120, i)
     turtle.done()
+
+    
+    
