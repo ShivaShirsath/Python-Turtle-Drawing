@@ -4,5 +4,4 @@
 
 [Virus](virus.py)
 
-## Use mobile to run it without error. (install pydroid)
-# [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+## Use mobile to run it without error. (install pydroid 3 [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3))
