@@ -18,6 +18,6 @@
     for i in range(3, 19, 1):
       shape(t, 120, i)
     turtle.done()
-```
+  ```
 + Output 
   ![](output/shapes.png)
