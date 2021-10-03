@@ -1,7 +1,7 @@
 <h1 align=center>Python Turtle Drawing </h1>
 
-[Shape](shape.md)
+[Shape](drawing/shape.md)
 
-[Virus](virus.md)
+[Virus](drawing/virus.md)
 
 ## Use mobile to run it without error. (install pydroid 3 [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3))
