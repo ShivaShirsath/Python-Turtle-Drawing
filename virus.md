@@ -21,4 +21,4 @@
     virus()
   ```
 + Output
-  ![]()
+  ![](output/virus.png)
