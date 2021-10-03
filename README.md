@@ -4,4 +4,4 @@
 
 [Virus](drawing/virus.md)
 
-## Use mobile to run it without error. (install pydroid 3 [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3))
+## Use Pydroid3 to run it without error on android. [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
