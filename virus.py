@@ -3,15 +3,16 @@ import turtle
 t = turtle.Turtle()
 t.getscreen().bgcolor("black")
 t.pendown()
-t.speed(25)
-t.color("green")
 
 def virus():
-  for i in range(0,200):
-		t.left(i)
-		t.forward(i)
-		if i == 198:
-			turtle.done()
+		t.color('green')
+		t.speed(25)
+		for i in range(200):
+			t.right(i)
+			t.forward(i*5)
+			if i == 199:
+				t.backward(i)
+		turtle.done()
 	
 if __name__=="__main__":
-  virus()
+	virus()
