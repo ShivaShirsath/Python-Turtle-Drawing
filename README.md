@@ -4,4 +4,6 @@
 
 [Virus](drawing/virus.md)
 
+[Saraswati Symbol](drawings/araswati.md)
+
 ## Use Pydroid3 to run it without error on android. [►](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
