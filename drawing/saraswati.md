@@ -42,7 +42,6 @@
   if __name__ == "__main__" :
   	for i in range(0,500,100):
   		hand(i)
-  	turtle.done()
   ```
 + Output
   ![](output/saraswati.png)
