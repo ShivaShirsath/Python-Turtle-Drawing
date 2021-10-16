@@ -15,9 +15,9 @@
 
   def hand(i):
   	t.pendown()
-	t.circle(15)
-	t.backward(550-i)
-	t.right(60)
+  	t.circle(15)
+  	t.backward(550-i)
+  	t.right(60)
 	t.forward(100+i)
 	t.left(120)
 	t.forward(500-i)
@@ -36,7 +36,7 @@
 	
   if __name__ == "__main__" :
   	for i in range(0,500,100):
-		hand(i)
+  		hand(i)
 	turtle.done()
   ```
 + Output
