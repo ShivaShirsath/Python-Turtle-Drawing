@@ -44,4 +44,4 @@
   		hand(i)
   ```
 + Output
-  ![](output/saraswati.png)
+![](output/saraswati.png)
