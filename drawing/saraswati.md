@@ -5,7 +5,7 @@
 
   pygame.init()
 
-  pygame.mixer.music.load('saraswati-bgsound.mp3')
+  pygame.mixer.music.load('sound/saraswati-bgsound.mp3')
   pygame.mixer.music.play(-1)
 
   t = turtle.Turtle()
