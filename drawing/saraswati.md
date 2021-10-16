@@ -1,7 +1,12 @@
 # Saraswati
 + Program
   ```python
-  import turtle
+  import turtle, pygame
+
+  pygame.init()
+
+  pygame.mixer.music.load('bgsound.mp3')
+  pygame.mixer.music.play(-1)
 
   t = turtle.Turtle()
   t.getscreen().bgcolor('black')
