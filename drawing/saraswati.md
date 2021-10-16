@@ -45,4 +45,4 @@
   ```
 + Output
 
-![](output/saraswati.png)
+  ![](output/saraswati.png)
