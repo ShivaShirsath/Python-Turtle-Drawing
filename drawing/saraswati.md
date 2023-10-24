@@ -11,6 +11,7 @@
   t = turtle.Turtle()
   t.getscreen().bgcolor('black')
   t.color('orange')
+  t.pensize(7.5)
   t.penup()
   t.speed(5)
 
